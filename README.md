@@ -9,14 +9,14 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
   <p align="center">
 <a href="https://github.com/mrfrank-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/DybyTech?color=blue&style=flat-square"></a>
 <a href="https://github.com/DybyTech/MEGALODON-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DybyTech/MEGALODON-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/DybyTech/MEGALODON-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DybyTech/MEGALODON-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/DybyTech/MEGALODON-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/MEGALODON-MD/MEGALODON-MD?style=flat-square&color=green"></a>
-<a href="https://github.com/DybyTech/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/DybyTech/Yami-RDX/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DybyTech/Yami-RDX?color=blue&style=flat-square"></a>
+<a href="https://github.com/DybyTech/Yami-RDX/"><img title="Size" src="https://img.shields.io/github/repo-size/Yami-RDX/Yami-RDX?style=flat-square&color=green"></a>
+<a href="https://github.com/Yami-RDX/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=80&pause=1000&color=87CEEB&center=true&vCenter=true&width=1000&height=200&lines=MEGALODON-MD;VERSION+2025;BY+DybyTech" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=80&pause=1000&color=87CEEB&center=true&vCenter=true&width=1000&height=200&lines=Yami-RDX;VERSION+2025;BY+DybyTech" alt="Typing SVG" />
   </a>
 </p>
   
@@ -35,7 +35,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 `FORK 🍴 AND STAR ⭐ IF YOU LIKE THIS BOT`
 
-  <a href="https://github.com/DybyTech/MEGALODON-MD/fork"><img title="MEGALODON-MD" src="https://img.shields.io/badge/FORK-MEGALODON%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/Yami-RDX/MEGALODON-MD/fork"><img title="Yami-RDX" src="https://img.shields.io/badge/FORK-MEGALODON%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. 𐃁GET SESSION ID𐃁 
 
@@ -51,7 +51,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 > **2. PAIR CODE SESSION ID**
 
-<a href='https://MEGALODON-MD-session.onrender.com/' target="_blank">
+<a href='https://Yami-RDX-session.onrender.com/' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
@@ -60,7 +60,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 ---
 
-### <h2 align="">𐃁MEGALODON-MD DEPLOYMENT OPTIONS𐃁</h2>
+### <h2 align="">𐃁Yami-RDX DEPLOYMENT OPTIONS𐃁</h2>
 
 ---
 
@@ -68,14 +68,14 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 <p style="text-align: center; font-size: 1.2em;">
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/DybyTech/MEGALODON-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Yami-RDX/MEGALODON-MD)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### <h4 align="">3. KOYEB</h4>
 <p style="text-align: center; font-size: 1.2em;">
 
 <p align="">
-<a href='https://app.koyeb.com/services/deploy?type=git&repository=DybyTech/MEGALODON-MD&ports=3000&env[PREFIX]=.&env[SESSION_ID]=&env[ALWAYS_ONLINE]=false&env[MODE]=public&env[AUTO_STATUS_MSG]=Seen%20status%20by%20MEGALODON-MD&env[AUTO_STATUS_REPLY]=false&env[AUTO_STATUS_SEEN]=true&env[AUTO_TYPING]=false&env[ANTI_LINK]=true&env[AUTO_REACT]=false&env[READ_MESSAGE]=false' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://app.koyeb.com/services/deploy?type=git&repository=Yami-RDX/Yami-RDX&ports=3000&env[PREFIX]=.&env[SESSION_ID]=&env[ALWAYS_ONLINE]=false&env[MODE]=public&env[AUTO_STATUS_MSG]=Seen%20status%20by%20MEGALODON-MD&env[AUTO_STATUS_REPLY]=false&env[AUTO_STATUS_SEEN]=true&env[AUTO_TYPING]=false&env[ANTI_LINK]=true&env[AUTO_REACT]=false&env[READ_MESSAGE]=false' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### <h4 align="">2. TALKDROVE FREE</h4>
@@ -113,7 +113,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 ## <h3 align=""> HOW TO DEPLOY ON HUGGING FACE</h3>
 <h6 align-"center">
-*❄️ Deploy MEGALODON-MD On Hugging Face For Free !*
+*❄️ Deploy Yami-RDX On Hugging Face For Free !*
 
 `Specs :`
 - v2 CPU
@@ -125,7 +125,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 1. Go to hugginface.co/join and create an account and verify your email too.
 
 `Step 2`
-1. Go to https://huggingface.co/spaces/DybyTech/MEGALODON-MD
+1. Go to https://huggingface.co/spaces/Yami-RDX/Yami-RDX 
 
 2. Tap on *three dots* _(as shown in image)_
 
@@ -206,10 +206,10 @@ jobs:
 
 
 ## 👑 PROJECT OWNER 
-HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME DybyTech࿐➺
+HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME Yami-RDx࿐➺
 
 <p align="">
-<a href='https://wa.me/50934960331?text=*ʜɪɪ+ɢᴏᴛᴀʀ+ᴛᴇᴄʜ+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+MEGALODON+MD+ʀᴇᴘᴏ!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
+<a href='https://wa.me/18093968514?text=*ʜɪɪ+ɢᴏᴛᴀʀ+ᴛᴇᴄʜ+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+Yami+RDX+ʀᴇᴘᴏ!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
