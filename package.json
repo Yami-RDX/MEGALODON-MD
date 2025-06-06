@@ -1,12 +1,12 @@
 {
-  "name": "MEGALODON-MD",
+  "name": "Yami-RDX",
   "version": "1.0.0",
-  "description": "A WhatsApp Bot Created By DybyTech",
+  "description": "A WhatsApp Bot Created By Yami",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name MEGALODON-MD",
-    "stop": "pm2 stop MEGALODON-MD",
-    "restart": "pm2 restart MEGALODON-MD"
+    "stop": "pm2 stop Yami-RDX",
+    "restart": "pm2 restart Yami-RDX"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "npm:baileys-pro@0.0.5",
